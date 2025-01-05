@@ -27,3 +27,4 @@ python YoutubeToSummary.py
 - [ ] Web interface / app ? 
 - [ ] Play with prompts to get a more concise summary
 - [ ] Add more options for the output format or destination
+- [ ] Cache the chunks or something to avoid reprocessing everything if interrupted or run multiple times
